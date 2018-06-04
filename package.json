@@ -1,0 +1,23 @@
+{
+  "name": "scireptracker",
+  "version": "0.0.0",
+  "description": "Track status of all your publications submitted to Scientific Reports",
+  "main": "scrapSciRep.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SRep",
+    "Scientific",
+    "Reports",
+    "Nature",
+    "Scientific",
+    "Journals"
+  ],
+  "author": "Kalanyu Zintus-art <kalanyuz@gmail.com> (http://www.kalanyuz.com)",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.72.0"
+  }
+}
